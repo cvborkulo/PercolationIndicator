@@ -1,0 +1,2 @@
+export(PercolationIndicator)
+S3method(print,PercolationIndicator)
